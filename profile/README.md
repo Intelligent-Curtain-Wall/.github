@@ -25,38 +25,3 @@
 | :--- | :--- |
 | **后端应用程序**<br>源代码：[DatasetManagementPlatform/BackendApplication](https://github.com/MinmusLin/ICW_OssManagement_Backend)<br>接口访问链接：http://110.42.214.164:9000 | 2250758 [林继申](https://github.com/MinmusLin)<br>2251730 [刘淑仪](https://github.com/bunnyoii)<br>2256225 [中谷天音](https://github.com/amaneosaka) |
 | **前端应用程序**<br>源代码：[DatasetManagementPlatform/FrontendApplication](https://github.com/MinmusLin/ICW_OssManagement_Frontend)<br>平台访问链接：http://110.42.214.164 | 2250758 [林继申](https://github.com/MinmusLin)<br>2251730 [刘淑仪](https://github.com/bunnyoii)<br>2256225 [中谷天音](https://github.com/amaneosaka) |
-
-## 相关文档
-
-* [CI/CD Pipeline Documentation](Documentation/CI_CD_Pipeline_Documentation.md)
-CI/CD 工作流文档
-
-* [Docker and Docker Compose Tech Stack Documentation](Documentation/Docker_and_Docker_Compose_Tech_Stack_Documentation.md)
-Docker 和 Docker Compose 技术栈文档
-
-* [Dockerfile Guide](Documentation/Dockerfile_Guide.md)
-Dockerfile 编写指南
-
-* [GPU Configuration Documentation](Documentation/GPU_Configuration_Documentation.md)
-矩池云 GPU 环境配置文档
-
-* [Git Basic Usage Documentation](Documentation/Git_Basic_Usage_Documentation.md)
-Git 基本使用文档
-
-* [Meeting Minutes](Documentation/Meeting_Minutes.md)
-会议纪要
-
-* [Ngnix Configuration Documentation](Documentation/Ngnix_Configuration_Documentation.md)
-腾讯云 Ngnix 配置文档
-
-* [OSS Configuration Documentation](Documentation/OSS_Configuration_Documentation.md)
-阿里云对象存储 OSS 配置文档
-
-* [OSS Controller API Documentation](Documentation/OSS_Controller_API_Documentation.md)
-OSS 控制器 API 文档
-
-* [System Architecture and Implementation of Dataset Management Platform Presentation](Documentation/System_Architecture_and_Implementation_of_Dataset_Management_Platform_Presentation.pdf)
-智慧幕墙数据集管理平台系统架构与实现汇报
-
-* [System Architecture and Server Operations and Maintenance Presentation](Documentation/System_Architecture_and_Server_Operations_and_Maintenance_Presentation.pdf)
-智慧幕墙系统架构与服务器运维汇报
