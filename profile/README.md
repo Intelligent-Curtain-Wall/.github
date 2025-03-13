@@ -19,14 +19,14 @@ Backend Applications Integration and Dataset Management Platform for Intelligent
 | **用户鉴权系统**<br>接口访问链接：http://110.42.214.164:8008<br>日志输出链接：http://110.42.214.164:9000/logs/user-authentication | 2253215 [刘垚](https://github.com/yaoyaolove)<br>2251324 [王骏禹](https://github.com/PiGodzyh)<br>2251323 [朱煜昊](https://github.com/L1KEAB0T)<br>2253226 [任厚霖](https://github.com/hubipo) |
 | **幕墙震动数据检测与展示系统**<br>接口访问链接：http://110.42.214.164:8009<br>日志输出链接：http://110.42.214.164:9000/logs/vibration-detection | 2151042 [兰凯](https://github.com/haixiuxiu)<br>2153572 [喻霄奕](https://github.com/Yxy54321)<br>2152932 [吴晓龙](https://github.com/l505l)<br>2154098 [张睿康](https://github.com/chanceray) |
 
-## 部署日志
-
-[点击此处](http://110.42.214.164:9000/deployment-logs)查看部署日志。
-
 ## 数据集管理平台
 
-[点击此处](http://110.42.214.164)访问数据集管理平台。
+[点击此处](http://110.42.214.164) 访问数据集管理平台。
+
+## 部署日志
+
+[点击此处](http://110.42.214.164:9000/deployment-logs) 查看部署日志。
 
 ## 项目相关文档
 
-[点击此处](https://github.com/Intelligent-Curtain-Wall/Documentation)查看项目相关文档。
+[点击此处](https://github.com/Intelligent-Curtain-Wall/Documentation) 查看项目相关文档。
