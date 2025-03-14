@@ -16,7 +16,7 @@ Backend Applications Integration and Dataset Management Platform for Intelligent
 | **幕墙韧性评估软件系统**<br>接口访问链接：http://110.42.214.164:8005<br>日志输出链接：http://110.42.214.164:9000/logs/resilience-assessment | 无 |
 | **玻璃幕墙爆裂检测系统**<br>接口访问链接：http://110.42.214.164:8006<br>日志输出链接：http://110.42.214.164:9000/logs/spalling-detection | 2253896 [张文健](https://github.com/vapacity)<br>2253538 [樊佳欣](https://github.com/359jxf)<br>2250766 [宫辰昊](https://github.com/peter-hannibal-gong)<br>2254305 [夏济舟](https://github.com/sadfroggy-max) |
 | **石材幕墙污渍检测系统**<br>接口访问链接：http://110.42.214.164:8007<br>日志输出链接：http://110.42.214.164:9000/logs/stain-detection | 2251926 [罗诗雨](https://github.com/lossiuy)<br>2251654 [付宝莹](https://github.com/funnyby)<br>2252954 [文彧婕](https://github.com/eightMealsADay)<br>2252092 [毕雅琳](https://github.com/ASAPbb) |
-| **用户鉴权系统**<br>接口访问链接：http://110.42.214.164:8008<br>日志输出链接：http://110.42.214.164:9000/logs/user-authentication | 2253215 [刘垚](https://github.com/yaoyaolove)<br>2251324 [王骏禹](https://github.com/PiGodzyh)<br>2251323 [朱煜昊](https://github.com/L1KEAB0T)<br>2253226 [任厚霖](https://github.com/hubipo) |
+| **用户鉴权系统**<br>接口访问链接：http://110.42.214.164:8008<br>日志输出链接：http://110.42.214.164:9000/logs/user-authentication | 2253215 [刘垚](https://github.com/yaoyaolove)<br>2251324 [王骏禹](https://github.com/L1KEAB0T)<br>2251323 [朱煜昊](https://github.com/PiGodzyh)<br>2253226 [任厚霖](https://github.com/hubipo) |
 | **幕墙震动数据检测与展示系统**<br>接口访问链接：http://110.42.214.164:8009<br>日志输出链接：http://110.42.214.164:9000/logs/vibration-detection | 2151042 [兰凯](https://github.com/haixiuxiu)<br>2153572 [喻霄奕](https://github.com/Yxy54321)<br>2152932 [吴晓龙](https://github.com/l505l)<br>2154098 [张睿康](https://github.com/chanceray) |
 
 ## 数据集管理平台
