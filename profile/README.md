@@ -1,7 +1,7 @@
 # Intelligent Curtain Wall
 
 > [!IMPORTANT]
-> Intelligent Curtain Wall © 2025 by Tongji University is licensed under Creative Commons Attribution-NonCommercial 4.0 International 
+> Intelligent Curtain Wall © 2025 by Tongji University is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0)
 
 Backend Applications Integration and Dataset Management Platform for Intelligent Curtain Wall, School of Computer Science and Technology, Tongji University.
 
