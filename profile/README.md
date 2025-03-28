@@ -1,6 +1,6 @@
 # Intelligent Curtain Wall
 
-Backend Applications Integration and Dataset Management Platform for Intelligent Curtain Wall Project, School of Computer Science and Technology, Tongji University.
+Backend Applications Integration and Dataset Management Platform for Intelligent Curtain Wall, School of Computer Science and Technology, Tongji University.
 
 同济大学计算机科学与技术学院智慧幕墙项目后端应用程序集成与数据集管理平台。
 
